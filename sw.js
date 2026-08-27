@@ -7,7 +7,7 @@
  *  - Bump CACHE_VERSION on every release to invalidate old caches.
  */
 
-const CACHE_VERSION = 'kp4-v2.1.0';
+const CACHE_VERSION = 'kp4-v2.2.0';
 const CACHE_NAME = `kp4-sales-${CACHE_VERSION}`;
 
 const PRECACHE_URLS = [
